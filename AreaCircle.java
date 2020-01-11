@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Circle
+class AreaCircle
 {
 public static void main(String args[])
 	{
